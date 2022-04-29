@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\.NET\\ConsoleAppCalculator\\ConsoleAppCalculator\\ConsoleAppCalculatorHttp.csproj": {}
+    "C:\\Calculator\\ConsoleAppCalculator\\ConsoleAppCalculatorHttp.csproj": {}
   },
   "projects": {
-    "D:\\.NET\\ConsoleAppCalculator\\ConsoleAppCalculator\\ConsoleAppCalculatorHttp.csproj": {
+    "C:\\Calculator\\ConsoleAppCalculator\\ConsoleAppCalculatorHttp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\.NET\\ConsoleAppCalculator\\ConsoleAppCalculator\\ConsoleAppCalculatorHttp.csproj",
+        "projectUniqueName": "C:\\Calculator\\ConsoleAppCalculator\\ConsoleAppCalculatorHttp.csproj",
         "projectName": "ConsoleAppCalculatorHttp",
-        "projectPath": "D:\\.NET\\ConsoleAppCalculator\\ConsoleAppCalculator\\ConsoleAppCalculatorHttp.csproj",
+        "projectPath": "C:\\Calculator\\ConsoleAppCalculator\\ConsoleAppCalculatorHttp.csproj",
         "packagesPath": "C:\\Users\\DeadInside\\.nuget\\packages\\",
-        "outputPath": "D:\\.NET\\ConsoleAppCalculator\\ConsoleAppCalculator\\obj\\",
+        "outputPath": "C:\\Calculator\\ConsoleAppCalculator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
